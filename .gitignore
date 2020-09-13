@@ -56,3 +56,7 @@ fabric.properties
 # MacDir
 .DS_Store
 
+将删除 .idea/ASR_Course_Homework.iml
+将删除 .idea/misc.xml
+将删除 .idea/modules.xml
+将删除 .idea/vcs.xml
